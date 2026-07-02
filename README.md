@@ -97,7 +97,8 @@ http://localhost:5173
 
 ## 📸 Screenshots
 
-![Uploading Screenshot 2026-07-02 085244.png…]()
+<img width="1888" height="906" alt="Screenshot 2026-07-02 085244" src="https://github.com/user-attachments/assets/7f383ab3-0af8-4abe-8880-2a99bed0dc7c" />
+
 
 
 <img width="1907" height="842" alt="Screenshot 2026-07-02 090043" src="https://github.com/user-attachments/assets/cefda108-a999-42dd-80f2-a55e4d4c931d" />
@@ -142,6 +143,3 @@ http://localhost:5173
 
 If you found this project helpful, please give it a ⭐ on GitHub.
 
-## 📄 License
-
-This project is licensed under the MIT License.
